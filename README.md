@@ -4,3 +4,4 @@ on the Iris dataset to predict the species of the flower
 The fastest algorithm varies even if data split is changed from 70:30
 to 80:20 for training:test. But the accuracy was consistently high for 
 AdaBoost algorithm.
+The version pf python used was 2.7
